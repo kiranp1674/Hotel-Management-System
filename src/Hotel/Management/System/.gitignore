@@ -1,0 +1,16 @@
+# Executable files
+*.exe
+
+# Large media files
+src/icon/dashboard.gif
+
+# Compiled Java output
+/out/
+/target/
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
